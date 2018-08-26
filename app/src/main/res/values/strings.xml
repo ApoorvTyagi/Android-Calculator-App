@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="clear">C</string>
+    <string name="backspace">⌫</string>
+    <string name="divide">÷</string>
+    <string name="sqrt">√</string>
+    <string name="square">x²</string>
+    <string name="posneg">±</string>
+    <string name="openBracket">(</string>
+    <string name="closeBracket">)</string>
+
+</resources>
